@@ -18,7 +18,7 @@ This project showcases the use of **OSSIM (Open Source Security Information and 
 ## Lab Steps
 
 ### 1. Login to OSSIM
-- Access OSSIM by navigating to [https://127.0.0.1](https://127.0.0.1).
+- Access OSSIM by navigating to ALIEN VAULT OSSIM Page (127.0.0.1).
 - Login with username `admin` and password `Pa$$w0rd`.
 
 ![Login Screenshot](screenshots/step1-login.png)
